@@ -5,7 +5,7 @@ This is a solution to Coding bootcamp testimonials slider.
 Your users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size;
-- Navigate the slider using either their mouse/trackpad or keyboard;
+- Navigate the slider using either their mouse;
 
 ## Table of contents
 
@@ -21,7 +21,7 @@ Your users should be able to:
 
 ### Link
 
-- Solution URL: [Coding bootcamp testimonials slider](https://your-solution-url.com)
+- Solution URL: [Coding bootcamp testimonials slider](https://aislandmin.github.io/testimonials-slider/)
 
 ### Screenshots
 
